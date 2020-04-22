@@ -1,4 +1,4 @@
-create table tabelaFred_nova2(
+create table tabelaFred_nova3(
   nome varchar(100),
   idade int
   )
